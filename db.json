@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "username": "praveen",
+      "password": "praveen123",
+      "role": "manager",
+      "id": "1"
+    },
+    {
+      "username": "dhritiman",
+      "password": "dhritiman123",
+      "role": "manager",
+      "id": "2"
+    },
+    {
+      "username": "rohit",
+      "password": "rohit123",
+      "role": "employee",
+      "id": "3"
+    },
+    {
+      "username": "sindhu",
+      "password": "sindhu123",
+      "role": "employee",
+      "id": "4"
+    },
+    {
+      "username": "divya",
+      "password": "divya123",
+      "role": "customer",
+      "id": "5"
+    },
+    {
+      "username": "manvi",
+      "password": "manvi123",
+      "role": "customer",
+      "id": "6"
+    },
+    {
+      "id": "4dcb",
+      "username": "kavya",
+      "password": "123",
+      "role": "customer"
+    },
+    {
+      "id": "a8b5",
+      "username": "rakesh",
+      "password": "123",
+      "role": "employee"
+    },
+    {
+      "id": "2eba",
+      "username": "murari",
+      "password": "123",
+      "role": "customer"
+    },
+    {
+      "id": "b68d",
+      "username": "nani",
+      "password": "123",
+      "role": "employee"
+    },
+    {
+      "id": "2399",
+      "username": "sakshi",
+      "password": "123",
+      "role": "customer"
+    }
+  ],
+  "tickets": [
+    {
+      "id": "3372",
+      "issue": "fan",
+      "IssueType": "electric",
+      "image": "",
+      "date": 1713182246791,
+      "customerId": "5",
+      "customerName": "divya",
+      "status": "customer rejected"
+    },
+    {
+      "id": "e195",
+      "issue": "water",
+      "IssueType": "building",
+      "image": "",
+      "date": 1713182417143,
+      "customerId": "6",
+      "customerName": "manvi",
+      "status": "completed",
+      "employeeId": "3"
+    },
+    {
+      "id": "6a16",
+      "issue": "ac",
+      "IssueType": "electric",
+      "image": "",
+      "date": 1713265498618,
+      "customerId": "5",
+      "customerName": "divya",
+      "status": "completed",
+      "employeeId": "4"
+    }
+  ]
+}
