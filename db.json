@@ -69,27 +69,6 @@
   ],
   "tickets": [
     {
-      "id": "3372",
-      "issue": "fan",
-      "IssueType": "electric",
-      "image": "",
-      "date": 1713182246791,
-      "customerId": "5",
-      "customerName": "divya",
-      "status": "customer rejected"
-    },
-    {
-      "id": "e195",
-      "issue": "water",
-      "IssueType": "building",
-      "image": "",
-      "date": 1713182417143,
-      "customerId": "6",
-      "customerName": "manvi",
-      "status": "completed",
-      "employeeId": "3"
-    },
-    {
       "id": "6a16",
       "issue": "ac",
       "IssueType": "electric",
@@ -98,7 +77,29 @@
       "customerId": "5",
       "customerName": "divya",
       "status": "completed",
-      "employeeId": "4"
+      "employeeId": "a8b5"
+    },
+    {
+      "id": "dc52",
+      "issue": "maintenance",
+      "IssueType": "building",
+      "image": "",
+      "date": 1713602343712,
+      "customerId": "2eba",
+      "customerName": "murari",
+      "status": "ticketRaised",
+      "employeeId": "a8b5"
+    },
+    {
+      "id": "7cbe",
+      "issue": "wifi",
+      "IssueType": "electric",
+      "image": "",
+      "date": 1713841580922,
+      "customerId": "6",
+      "customerName": "manvi",
+      "status": "completed",
+      "employeeId": "3"
     }
   ]
 }
