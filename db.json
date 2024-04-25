@@ -53,12 +53,6 @@
       "username": "murari",
       "password": "123",
       "role": "customer"
-    },
-    {
-      "id": "2399",
-      "username": "sakshi",
-      "password": "123",
-      "role": "customer"
     }
   ],
   "tickets": [
